@@ -123,6 +123,11 @@ nav ul li a:visited {
     .container-main {
         padding: 0;
     }
+
+    .container-main p {
+        width: 100%;
+        max-width: 703px;
+    }
 }
 
 @media only screen and (max-width: 955px) {
