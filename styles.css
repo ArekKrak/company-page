@@ -147,7 +147,7 @@ nav ul li a:visited {
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        padding-left: 1em;
+        /* padding-left: 1em; */
     }
 
     #mirai-img {
