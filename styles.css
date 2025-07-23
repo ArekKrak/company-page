@@ -128,6 +128,10 @@ nav ul li a:visited {
         width: 100%;
         max-width: 703px;
     }
+
+    #mirai-img {
+        padding: 0;
+    }
 }
 
 @media only screen and (max-width: 955px) {
