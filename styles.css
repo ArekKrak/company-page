@@ -117,7 +117,7 @@ nav ul li a:visited {
         display: block;
         justify-self: center;
         text-align: center;
-        margin: 0;
+        margin: 0 auto;
     }
 
     .container-main {
@@ -140,7 +140,7 @@ nav ul li a:visited {
     }
 }
 
-.container-main p {
+p {
     margin: 0;
 }
 
