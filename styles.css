@@ -106,7 +106,7 @@ nav ul li a:visited {
 .container-main {
     color: white;
     margin-right: 20px;
-    padding-left: 1em;
+    /* padding-left: 1em; */
     max-width: 530px;
     width: 100%;
 }
