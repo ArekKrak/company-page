@@ -111,13 +111,6 @@ nav ul li a:visited {
     width: 100%;
 }
 
-/* @media only screen and (max-width: 540px) {
-
-    .container-main p {
-        padding: 0;
-    }
-} */
-
 @media only screen and (max-width: 703px) {
 
     .mirai-main figure {
@@ -125,10 +118,6 @@ nav ul li a:visited {
         justify-self: center;
         text-align: center;
         margin: 0 auto;
-    }
-
-    .container-main {
-        padding: 0;
     }
 
     .container-main p {
