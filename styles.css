@@ -566,6 +566,7 @@ footer img {
 
     .cities {
         display: block;
+        text-align: center;
     }
 }
 
