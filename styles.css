@@ -566,7 +566,6 @@ footer img {
 
     .cities {
         display: block;
-        text-align: center;
     }
 }
 
@@ -616,6 +615,12 @@ footer img {
 }
 
 @media only screen and (max-width: 955px) {
+
+    .bham {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
     
     .london {
         margin-top: 1.33em;
