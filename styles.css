@@ -125,6 +125,10 @@ nav ul li a:visited {
         max-width: 703px;
     }
 
+    .container-main {
+        padding: 0;
+    }
+
     #mirai-img {
         padding: 0;
     }
