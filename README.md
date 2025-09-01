@@ -3,12 +3,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3&logoColor=white&style=flat)
 ![Flexbox](https://img.shields.io/badge/Flexbox-Layout-264de4?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-Functionality-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?logo=github&logoColor=white&style=flat)](https://github.com/ArekKrak/company-page)
 
 A responsive homepage built with **HTML5** and **CSS3 (Flexbox)** as part of Codecademy’s *Challenge Project: Company Home Page with Flexbox*.  
 
-The site is designed as a mock homepage for a **Toyota dealership** promoting the **Toyota Mirai** hydrogen car. It demonstrates responsive layout techniques, modern web typography, and clean structure.
+The site is designed as a mock homepage for a **Toyota dealership** promoting the **Toyota Mirai** hydrogen car. It demonstrates responsive layout techniques, modern web typography, clean structure, and basic interactivity.
 
 ---
 
@@ -35,6 +36,7 @@ Build a homepage layout using **Flexbox** and **media queries** to ensure the si
 
 - **HTML5** (semantic structure)
 - **CSS3** (Flexbox, media queries)
+- **JavaScript** (dark mode toggle, experimental)
 - **Tools**: Visual Studio Code, Git, GitHub
 
 ---
@@ -45,6 +47,7 @@ Build a homepage layout using **Flexbox** and **media queries** to ensure the si
 company-page/
 ├── index.html  # Main HTML file
 ├── styles.css  # CSS stylesheet
+├── main.js     # JavaScript (dark mode functionality WIP)
 ├── img/        # Images and logos
 └── README.md   # Project documentation
 ```
@@ -74,7 +77,11 @@ company-page/
 6. **Footer**  
     - Contact details for Birmingham and West London dealerships.  
     - Opening hours displayed in tables.  
-    - Responsive adjustments: stacked layout on smaller devices. 
+    - Responsive adjustments: stacked layout on smaller devices.
+
+7. **Dark Mode (Work in Progress)**  
+    - A toggle button allows switching between light and dark themes.  
+    - Currently functional, but styling refinements still in progress.
 
 ---
 
@@ -105,6 +112,18 @@ company-page/
 - Typography and spacing for modern design
 - Use of images and captions in a grid layout
 - Responsive footer with contact details and tables
+- **JavaScript basics**: DOM manipulation & event handling for theme toggling
+
+---
+
+## Updates
+
+This section records additions that go beyond the original project scope:
+
+- **Dark Mode Toggle (JavaScript, WIP):**  
+  Implemented a theme switcher using JavaScript (`main.js`).  
+  The toggle button allows switching between light and dark themes.  
+  Functionality works, but styling refinements are still in progress.
 
 ---
 
